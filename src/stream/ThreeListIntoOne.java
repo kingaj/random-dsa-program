@@ -7,10 +7,10 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 
 /*
- * Definition
+ * Problem Statement
  * List<Employee> l1 // have employee id and name
  * List<Employee> l2 // have employee department
- * List<Employee> l2 // have employee salary
+ * List<Employee> l3 // have employee salary
  * List<Employee> combinedList //add all 3 list into one
  * */
 
